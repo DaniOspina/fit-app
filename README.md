@@ -15,39 +15,6 @@ FitConnect es una aplicación web que permite a los usuarios encontrar entrenado
 
 ---
 
-## 📂 Estructura del proyecto
-
-app
-│
-├── agendar
-│   └── page.tsx
-│
-├── beneficios
-│   └── page.tsx
-│
-├── components
-│   ├── Navbar.tsx
-│   ├── SportsList.tsx
-│   └── TrainerCard.tsx
-│
-├── data
-│   ├── sportsData.ts
-│   └── trainersData.ts
-│
-├── deportes
-│   └── page.tsx
-│
-├── entrenadores
-│   └── page.tsx
-│
-├── favicon.ico
-├── globals.css
-├── layout.tsx
-└── page.tsx     ← (HomePage)
-
-
----
-
 ## 🛠️ Tecnologías utilizadas
 
 - **Next.js 14** – Framework React  
